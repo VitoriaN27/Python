@@ -43,3 +43,5 @@ print(dic2)
 print(type(notas))
 print(type(bigdata))
 print(type(tupla))
+
+#vs.nv

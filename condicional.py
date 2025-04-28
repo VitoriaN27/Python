@@ -12,3 +12,5 @@ if nota >= 7 or frequência > 70:
    print("Aprovado")
 else:
    print("reprovado")
+
+       #vs.nv

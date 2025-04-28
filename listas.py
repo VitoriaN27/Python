@@ -14,8 +14,12 @@ print(len(lst))
 
 print(lst[0])
 print(lst3[1])
+
 lst[0] = 4 
-print(list)
+print(lst)
 
 for n in range(0, len(lst4)):
     print(lst4[n]+1)
+
+    #vs.ns
+    

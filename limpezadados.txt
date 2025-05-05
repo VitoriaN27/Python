@@ -1,0 +1,8 @@
+ID,Nome,Idade,E-mail,Cidade,Data_Cadastro,Valor_Compra,Status
+1,Ana Silva,29,ana.silva@email.com,São Paulo,2024-01-10,250.75,Ativo
+2,Bruno Souza,35,bruno@email.com,Rio de Janeiro,2023-11-22,0,Inativo
+3,Carla Lima,,carla@email.com,Belo Horizonte,2024-03-05,150.00,Ativo
+4,Diego Martins,42,,São Paulo,2022-07-19,430.50,Ativo
+5,Elisa Rocha,23,elisa@email.com,Porto Alegre,2025-01-01,0,Inativo
+6,Felipe Alves,31,felipe@email.com,,2024-08-17,280.20,Ativo
+7,Gabriela Mota,27,gabriela@email.com,Recife,2023-09-10,,Ativo

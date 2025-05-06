@@ -4,3 +4,20 @@
 
  º Sem ela, não se tem resultado, não se chega ao objetivo do trabalho, não se pode contar a 
  historia...não da pra demonstrar o que aconteceu 
+
+
+ Arte ou ciência
+ º A visualização de dados é acima de tudo uma ciência, e por isso funciona melhor com a aplicação e boas praticas 
+
+ 
+ Durante a analise de dados 
+ Durante a analise exploratória                             Durante a Fase exploratória
+
+º Relação                                                   º Conclusões 
+º limites                                                   º Evidências         
+º Outliers                                                  º Sofisticação 
+º tendências
+º Padrões 
+
+
+

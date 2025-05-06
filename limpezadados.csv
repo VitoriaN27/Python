@@ -1,8 +1,6 @@
-ID,Nome,Idade,E-mail,Cidade,Data_Cadastro,Valor_Compra,Status
-1, Ana Silva ,29,ana.silva@email.com,São Paulo,2024-01-10,250.75,ativo
-2,Bruno Souza,35,bruno@email.com,Rio de Janeiro,2023-11-22,0,Inativo
-3,Carla Lima,,carla@email.com,Belo Horizonte,2024-03-05,150.00,Ativo
-4,Diego Martins,42,,São Paulo,2022-07-19,430.50,ativo
-5,Elisa Rocha,23,elisa@email.com,Porto Alegre,2025-01-01,0,inativo
-6,Felipe Alves,31,felipe@email.com,,2024-08-17,280.20,ATIVO
-7,Gabriela Mota,27,gabriela@email.com,Recife,2023-09-10,,Ativo
+genero,nome,idade,salario,cidade,email,status,valor_compra,data_cadastro
+F,Ana Souza,28,3200.50,Recife,ana.souza@email.com,ativo,150.75,2023-01-15
+M,Bruno Lima,34,4100.00,São Paulo,bruno.lima@email.com,inativo,0.00,2022-11-08
+F,Camila Alves,26,2750.80,Belo Horizonte,camila.alves@email.com,ativo,230.00,2023-06-22
+M,Diego Martins,39,5300.25,Curitiba,diego.martins@email.com,ativo,1250.90,2023-03-10
+F,Eliane Costa,31,2980.00,Salvador,eliane.costa@email.com,inativo,0.00,2022-12-01

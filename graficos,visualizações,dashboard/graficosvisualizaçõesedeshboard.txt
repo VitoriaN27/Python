@@ -52,3 +52,15 @@ Forma de Organização a informação
 -> Elementos corretos 
 -> Abuso de Cores
 
+Edward Tufte
+° Data-ink ratio : Toda a "Tinta" usada para desenhar um grafico, deve ser utilizado acima de tudo para mostrar dados, ou seja, títulos
+eixos, rótulos etc., pode, e devem existir, mas deve ser utilizado racionalmente e minimamente 
+
+Dicas Gerais 
+° Evita gráfica de setores 
+° Evitar 3D
+° Cores não ordenadas valores.
+  Escalas de cinza sim 
+° Devem mostrar 20 números 
+  ou menos 
+° Variar dados, não design 

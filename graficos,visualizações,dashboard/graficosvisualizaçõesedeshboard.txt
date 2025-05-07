@@ -64,3 +64,24 @@ Dicas Gerais
 ° Devem mostrar 20 números 
   ou menos 
 ° Variar dados, não design 
+° Graficos devem destacar
+  dados, nada mais
+° evitar linhas de Grade
+° não usar moiré Vibration
+° Conseguimos guarda de 3 a 9 Informações visuais em nosso cérebro 
+(http://colorlab.wickline.org/colorblind/colorlab/)
+
+Capacidade de Percepção do cérebro
+° Percepção
+° Exemplos
+    ° Gráfico de Barras 
+    ° Gráfico de setores
+    ° Gráfico de Dispersão 
+
+Capacidade de Percepção
+1 - Posição em uma escala comum 
+2 - Posição em uma escala não alinhada
+3 - Comprimento, direção e ângulo 
+4 - Área
+5 - Volume, Curvatura
+6 - Sombreamento, saturação 

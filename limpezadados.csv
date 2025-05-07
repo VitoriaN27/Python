@@ -1,6 +1,0 @@
-id,genero,nome,idade,salario,cidade,email,status,valor_compra,data_cadastro
-1,F,Ana Souza,28,3200.50,Recife,ana.souza@email.com,ativo,150.75,2023-01-15
-2,M,Bruno Lima,34,4100.00,São Paulo,bruno.lima@email.com,inativo,0.00,2022-11-08
-3,F,Camila Alves,26,2750.80,Belo Horizonte,camila.alves@email.com,ativo,230.00,2023-06-22
-4,M,Diego Martins,39,5300.25,Curitiba,diego.martins@email.com,ativo,1250.90,2023-03-10
-5,F,Eliane Costa,31,2980.00,Salvador,eliane.costa@email.com,inativo,0.00,2022-12-01

@@ -19,5 +19,13 @@
 º tendências
 º Padrões 
 
+A visualização de dados pode produzir diversos tipos de artefatos
+
+º Graficos estáticos: É uma representação instantânte de um conjunto de dados
+
+º Dashboards: conjunto de Graficos interativos e exibidos em conjunto 
+
+º infografia: Graficos mais ricos visualmente, porem não estão vinculados diretamente a uma fonte de dados 
 
 
+ 

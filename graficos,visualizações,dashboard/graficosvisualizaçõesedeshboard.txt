@@ -28,4 +28,13 @@ A visualização de dados pode produzir diversos tipos de artefatos
 º infografia: Graficos mais ricos visualmente, porem não estão vinculados diretamente a uma fonte de dados 
 
 
- 
+ Dicas para criação de Dashboards
+
+ 1 - Comparado ao que? 
+ 2 - Bom ou ruim ?  
+ 3 - Métricas corretas ? 
+ 4 - tema
+ 5 - Tamanho e resolução 
+ 6 - Melhores e piores
+ 7 - Excesso ou falta de níves
+ 8 - Proporção 

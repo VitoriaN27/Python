@@ -120,3 +120,11 @@ checklist parte IV - Design
 ° As cores escolhidas são suaves ? 
 ° Foram evitadas linhas de grande e moiré Vibration ? 
 ° Foram feitas considerações sobre daltonismo ? 
+
+referencias 
+- Visual Display of quantitaive information (Eduard Tufte)
+- information Dashboard Design: The Effective visual Communication of Data (Stephen few)
+- Graphical Perception: Theory, Experimentation and Application to the Development of Graphical Methos 
+    William S. Cleveland and Robert McGill
+    https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/Cleveland.pdf
+- Design Data Visualization (Noah lllinsky and julie steele)

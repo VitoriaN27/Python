@@ -38,3 +38,17 @@ A visualização de dados pode produzir diversos tipos de artefatos
  6 - Melhores e piores
  7 - Excesso ou falta de níves
  8 - Proporção 
+
+
+
+Forma de Organização a informação
+
+° Localização 
+° Alfabeticamente
+° Tempo
+° Categoria
+° Hierárquia
+
+-> Elementos corretos 
+-> Abuso de Cores
+

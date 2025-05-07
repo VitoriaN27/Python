@@ -85,3 +85,38 @@ Capacidade de Percepção
 4 - Área
 5 - Volume, Curvatura
 6 - Sombreamento, saturação 
+
+
+Gráfico de Barras 
+Grafico de linhas -> ° Dados continuos 
+° evolução 
+° Series temporais, com tempo no eixo horizontal 
+  dimensões no vertical 
+° Suporta várias categorias 
+
+checklist parte I - Tipos de elementos 
+ ° Está usando o Elemento Grafico adequado ? 
+ ° Não há excesso de elementos decorativos 
+ ° Não há mais do que 7 elementos no Dashboard? 
+
+ checklist parte II - Dados 
+ ° Dados estão no contexto correto ? 
+ ° Dados não apresentam um excesso de detalhes? 
+ ° Dados mais importantes estão destacados ? 
+ ° Não há mais do que 20 instâncias (linhas) por elementos (Grafico)? 
+ ° Existe excesso de elementos não relacionados a dados? 
+
+
+checklist parte III - Painel 
+° Não transcende as dimensões de uma tela ? 
+° Não utiliza Medidas Ineficientes? 
+° Existe um único assunto no Dashboard
+° Está Destacando informação mais relevantes nas áreas de ênfase
+° Está mantida a Proporção 1/6 entre eixos? 
+° Existe referencias de comparação 
+
+checklist parte IV - Design 
+° Foi Considerado o ranking de Percepção do cérebro? 
+° As cores escolhidas são suaves ? 
+° Foram evitadas linhas de grande e moiré Vibration ? 
+° Foram feitas considerações sobre daltonismo ? 

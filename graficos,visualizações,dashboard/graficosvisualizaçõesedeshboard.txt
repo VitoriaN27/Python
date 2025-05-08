@@ -128,3 +128,10 @@ referencias
     William S. Cleveland and Robert McGill
     https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/Cleveland.pdf
 - Design Data Visualization (Noah lllinsky and julie steele)
+
+
+
+Método	        Espera como argumento	                       Exemplo correto
+iloc[]	         Índice numérico	                           base.iloc[:, 6]
+loc[]	           Nome de coluna (ou label)	                 base.loc[:, "Altura (m)"]
+base[]	         Acesso direto por nome	                     base["Altura (m)"]
